@@ -1,7 +1,7 @@
 TO-DO Before 26/05!!!
 =====================
 Maquettes (scénarios) à réaliser :
--(DONE) Répondre à un appel d’offre(impression/création)[TOGUI]   
+- (DONE) Répondre à un appel d’offre(impression/création)[TOGUI]   
 - Déclarer imprimante / changement de statut(Membre X >>> admin/moderateurs)[Valet]
 - Liker/Commenter/telecharger Modèle /moderer/signaler/le voir en 3D modèle[NADIA]
 - Page acceuil / Page profil [Nico]
@@ -9,7 +9,7 @@ Maquettes (scénarios) à réaliser :
 
 
 Création du projet sur github :
--(DONE) Créer le Projet + y mettre les trucs qu’on a pour l’instant[TOGUI]
+- (DONE) Créer le Projet + y mettre les trucs qu’on a pour l’instant[TOGUI]
 - Lister les fonctions sous forme d’ISSUES + lés décrire + lier avec les maquettes[??]		     
 - Faire 2 tests de recettes pour 2 fcts(à continuer durant la séance TP du 26/05)[BROCHU, ??]
 
