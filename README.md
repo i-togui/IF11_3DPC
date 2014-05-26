@@ -16,3 +16,7 @@ En nous inspirant d’exemples de communautés et de principes tels que l’open
 Maquettes
 =========
 https://utt.mybalsamiq.com/projects/3d-platform-community
+
+WIKI
+====
+https://github.com/i-togui/IF11_3DPC/wiki
