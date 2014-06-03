@@ -1,0 +1,134 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "objets",
+   "children": [
+	  {
+	    "name": "chaise",
+		"children": [
+			{"name": "chaise1", "size": 3938},
+			  {"name": "chaise2", "size": 5731},
+			  {"name": "chaise3", "size": 7074},
+			  {"name": "chaise4", "size": 9000},
+			  {"name": "chaise5", "size": 3400},
+			  {"name": "chaise6", "size": 6000}
+	    ]
+	  },
+	  {
+	    "name": "fauteuil",
+		"children": [
+			{"name": "fauteuil1", "size": 3938},
+			  {"name": "fauteuil2", "size": 5731},
+			  {"name": "fauteuil3", "size": 7074},
+			  {"name": "fauteuil4", "size": 9000},
+			  {"name": "fauteuil5", "size": 3400}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets1",
+   "children": [
+	  {
+	    "name": "trucs",
+		"children": [
+			{"name": "porte-crayon", "size": 3938},
+			  {"name": "banana box", "size": 5731},
+			  {"name": "coupe-papier", "size": 7074}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets2",
+   "children": [
+	  {
+	    "name": "trucs2",
+		"children": [
+			{"name": "poubelle plastique", "size": 3938},
+			  {"name": "cerf_volant", "size": 5731}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets3",
+   "children": [
+	  {
+	    "name": "trucs3",
+		"children": [
+			  {"name": "bouteille", "size": 5731},
+			  {"name": "verre", "size": 7074},
+			  {"name": "tasse", "size": 8000}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets4",
+   "children": [
+	  {
+	    "name": "trucs4",
+		"children": [
+			{"name": "fourchette", "size": 2000},
+			  {"name": "couteau", "size": 5731},
+			  {"name": "porte-couteau", "size": 7074}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets5",
+   "children": [
+	  {
+	    "name": "trucs5",
+		"children": [
+			{"name": "fourchette", "size": 2000},
+			  {"name": "couteau", "size": 5731},
+			  {"name": "porte-couteau", "size": 7074}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets6",
+   "children": [
+	  {
+	    "name": "trucs6",
+		"children": [
+			{"name": "fourchette", "size": 2000},
+			  {"name": "couteau", "size": 5731},
+			  {"name": "porte-couteau", "size": 7074}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets7",
+   "children": [
+	  {
+	    "name": "trucs7",
+		"children": [
+			{"name": "fourchette", "size": 2000},
+			  {"name": "couteau", "size": 5731},
+			  {"name": "porte-couteau", "size": 7074}
+	    ]
+	  }
+     ]
+  },
+  {
+   "name": "objets8",
+   "children": [
+	  {
+	    "name": "trucs8",
+		"children": [
+			{"name": "fourchette", "size": 2000},
+			  {"name": "couteau", "size": 5731},
+			  {"name": "porte-couteau", "size": 7074}
+	    ]
+	  }
+     ]
+  }
+ ]
+}
